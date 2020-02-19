@@ -6,8 +6,8 @@ public class test
 			System.out.println("teeet");
 			System.out.println("twiiitééét");
 			System.out.println("teeet");
-						System.out.println("teeet");
-									System.out.println("teeet");
+			System.out.println("x");
+		
 		}
 
 
